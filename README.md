@@ -33,3 +33,6 @@ Alex Green
 Green           
 21           
 1.73  
+
+
+OBS: As questões dos outros códigos comitados, estão registrados na aba "Wiki" do menu GitHub.
